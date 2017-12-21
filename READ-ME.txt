@@ -1,0 +1,6 @@
+Veuillez trouver ci joint, le code du jeu FlappyMan.
+
+La source du son n'est plus disponible car son poids était trop élevé. 
+
+Pour jouer a ce jeu, il vous faut installer Python ainsi que Pygame.
+
